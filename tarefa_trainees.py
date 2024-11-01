@@ -2,9 +2,8 @@ import pandas as pd
 
 
 # Caminhos dos arquivos
-
-caminho_origem = input(f'Digite o nome do arquivo de origem: ')
-caminho_destino = input(f'Digite o nome do arquivo de destino: ')
+caminho_origem = 'transacoes_financeiro_completo.xlsx'
+caminho_destino = "transacoes_financeiro_1_semestre.xlsx"
 
 def ler_arquivo(caminho_origem):
     df_origem = pd.read_excel(caminho_origem)
