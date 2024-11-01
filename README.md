@@ -7,16 +7,9 @@ O código recebe dois arquivos e exporta os dados do primeiro documento para o s
 Desafios 
  Preenchimento automático: Os dados precisam ser preenchidos automaticamente no momento que o script rodar.
 
-• Validação de Dados: Verificar se todos os campos estão preenchidos corretamente (data, valor, categoria, tipo de transação e  nota fiscal).
-Data de transação
-Valor 
-Nota fiscal
-Categoria 
-Tipo de transação
+Buscar os dados somente do primeiro semestre  do ano, o código precisa pegar as informações entre 01/01/2024 até 30/06/2024.
 
-•  Nesse caso vamos buscar os dados somente do primeiro semestre  do ano, o código precisa pegar as informações entre 01/01/2024 até 30/06/2024.
-
-•  Criar um arquivo .exe: O script precisa ser um arquivo executável com uma pequena interface visual pegando as  funcionalidades solicitadas.
+Criar um arquivo .exe: O script precisa ser um arquivo executável com uma pequena interface visual pegando as  funcionalidades solicitadas.
 
 
 
